@@ -2,4 +2,4 @@
 
 Repository for submitting Udacity's MLND course projects
 
-Created on Movember 3, 2017
+Created on November 3, 2017
